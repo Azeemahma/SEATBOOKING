@@ -1,10 +1,10 @@
 /* Minimal reset */
 body {
-    margin: 0;
-    font-family: -apple-system, Arial, sans-serif;
-    -webkit-font-smoothing: antialiased;
-  }
-  
-  #root {
-    min-height: 100vh;
-  }
+  margin: 0;
+  font-family: -apple-system, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  min-height: 100vh;
+}
