@@ -1,0 +1,11 @@
+.seat-booking { font-family: Arial; padding: 20px; }
+.controls { margin: 20px 0; }
+.row { margin-bottom: 10px; }
+.seat {
+  width: 30px; height: 30px; margin: 3px;
+  display: inline-block; text-align: center;
+  line-height: 30px; border: 1px solid #444;
+}
+.vacant { background: red; }
+.filled { background: green; }
+button { margin-left: 10px; }
